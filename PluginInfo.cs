@@ -5,8 +5,8 @@
 	/// </summary>
 	class PluginInfo
 	{
-		public const string GUID = "com.yamaha.zerogravity";
-		public const string Name = "Zero Gravity!";
-		public const string Version = "1.1.0";
+		public const string GUID = "com.yamaha.modded_gravitychanger";
+		public const string Name = "Modded Gravity Changer!";
+		public const string Version = "1.0.0";
 	}
 }
